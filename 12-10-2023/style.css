@@ -1,0 +1,43 @@
+/* .main{
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+
+}
+
+.in{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+
+} */
+
+body{
+    background-color: brown;
+    float: left;
+}
+.black{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    display: inline-block;
+    float: 
+    
+}
+.white{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    display: inline-block;
+    
+}
+
+.h{
+
+    position: absolute;
+    bottom: 395px;
+    left: 260px;
+}
