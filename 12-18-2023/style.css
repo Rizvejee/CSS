@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(137, 93, 105, 0.998);
+}
+.black{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.white{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.flexbox{
+
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+    
+}

@@ -1,0 +1,36 @@
+.box{
+    width: 600px;
+    margin: 50px 0px 0px 50px;
+    background-color: #eee;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows:60px 250px 250px 60px;
+    gap: 10px;
+}
+
+.items1{
+    border: 2px solid black;
+    grid-column: 1/4;
+    
+}
+.items2{
+    background-color: gray;
+    grid-row: 2/4;
+    grid-column: 1/2;
+}
+.items3{
+    background-color: brown;
+    grid-row: 2/4;
+    grid-column: 2/4;
+}
+.items4{
+    background-color: palegreen;
+    grid-column: 1/4;
+}
+.items5{
+    background-color: greenyellow;
+}
+.items6{
+    background-color: hotpink;
+}
